@@ -1,0 +1,18 @@
+
+title: Atreyo_Mandal_Portfolio
+description: A basic portfolio about me myself.
+username: Atreyo Mandal
+user_description: I am Atreyo Mandal, an Under Graduate B.tech Computer Science and Engineering student from 
+Sister Nivedita University. I love to code webpages and websites. I am still learning several coding languages and trying to 
+grow myself to become a developer the industry needs.
+user_title: Software Developer
+email: atreyoarka1235@gmail.com
+linkedin_username: atreyo mandal
+github_username:  Atreyo69
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
